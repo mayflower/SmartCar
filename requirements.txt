@@ -1,0 +1,12 @@
+langchain
+opencv-python
+recognize-anything @ git+https://github.com/xinyu1205/recognize-anything.git@fd2ab877e245e8e571af7b2d6048d1a9d40a6408
+torch
+termcolor
+torchvision
+transformers
+scipy
+timm
+fairscale
+openai
+pillow
